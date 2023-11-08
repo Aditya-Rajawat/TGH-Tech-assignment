@@ -1,9 +1,10 @@
 # Quote Generator App [Link](https://quote-generator-assignment.netlify.app/)
 
-- Step 1
+# Step 1
 
 *Install Vite with React*
-- npm vite@latest
+
+> npm vite@latest
 
 # Step 2
 
