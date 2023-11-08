@@ -2,8 +2,8 @@
 
 # Step 1
 
-- Install Vite with React
-  npm vite@latest
+Install Vite with React
+# npm vite@latest
 
 # Step 2
 
