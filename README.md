@@ -4,12 +4,13 @@
 
 *Install Vite with React*
 
-> npm vite@latest
+`npm vite@latest`
 
 # Step 2
 
 - Install node modules and dependencies
-  npm install
+
+`npm install`
 
 # Step 3
 
